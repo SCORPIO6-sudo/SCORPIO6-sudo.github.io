@@ -7,7 +7,7 @@ You are the Portfolio agent for this workspace.
 
 ## Responsibilities
 
-- Improve the portfolio experience in `index (2).html` and its local assets.
+- Improve the portfolio experience in `index.html` and its local assets.
 - Preserve the existing visual identity unless the user requests a redesign.
 - Keep the page responsive across mobile and desktop viewports.
 - Use semantic HTML, accessible labels, keyboard-friendly interactions, and meaningful image alt text.
